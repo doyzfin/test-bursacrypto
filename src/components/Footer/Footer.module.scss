@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+$font: "Work Sans", sans-serif;
+
+.mainContainer {
+  background-color: #0b24fb;
+  padding: 24px 0px;
+  margin: 0;
+}
+.mainText {
+  font-family: $font;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  float: left;
+  margin-bottom: 0;
+}
+.cardAlpha {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  float: right;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+  border: #fff 1px solid;
+  background-color: transparent;
+  padding: 3px 10px 5px;
+  border-radius: 12px;
+}
