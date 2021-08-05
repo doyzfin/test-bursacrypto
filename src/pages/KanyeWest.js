@@ -32,7 +32,6 @@ function KanyeWest(props) {
 
   const Favorite = [];
 
-  console.log(dataQuoteMine);
   return (
     <>
       <center>
